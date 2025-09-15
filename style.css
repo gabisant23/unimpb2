@@ -1,12 +1,12 @@
 body {
-    color: rgb(183, 84, 56);
-    background: rgb(172, 66, 72);
+    color: rgb(233, 142, 117);
+    background: rgb(226, 125, 130);
     margin: 0px;
     font-family: "Rubik Wet Paint", system-ui;
 }
 
 header {
-    border-bottom: solid 2px rgb(219, 66, 66);
+    border-bottom: solid 2px rgb(218, 83, 83);
     padding: 20px;
     font-size: 32px;
     color: rgb(217, 119, 119);
@@ -17,12 +17,12 @@ header {
 }
 
 .chamada {
-    background: rgb(177, 5, 5);
+    background: rgb(228, 126, 126);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 2px rgb(158, 12, 12);
+    border-bottom: solid 2px rgb(208, 38, 38);
 }
 
 .video {
@@ -42,13 +42,13 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: rgb(126, 16, 6);
+    color: rgb(219, 96, 85);
     /* Define a cor do texto */
 }
 
 .cursor {
     display: inline-block;
-    color: rgb(186, 67, 73);
+    color: rgb(244, 151, 233);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: rgb(219, 53, 116) rgb(154, 16, 16);
+    scrollbar-color: rgb(241, 130, 197) rgb(214, 91, 91);
     scrollbar-width: thin;
     gap: 10px;
 }
@@ -104,11 +104,11 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(189, 33, 33);
+    border: 3px solid rgb(214, 118, 118);
 }
 
 .categoria h2 {
-    color: rgb(233, 13, 13);
+    color: rgb(218, 147, 147);
 }
 
 .copyright {
